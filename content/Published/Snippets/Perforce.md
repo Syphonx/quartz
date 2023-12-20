@@ -5,19 +5,19 @@ publish: true
 
 # Table of contents
 
-- [[#Useful Commands|Useful Commands]]
-	- [[#Useful Commands#Check if a file is ignored|Check if a file is ignored]]
-	- [[#Useful Commands#Remove files in CL, keeping workspace|Remove files in CL, keeping workspace]]
-	- [[#Useful Commands#Submit with progress indicator|Submit with progress indicator]]
-	- [[#Useful Commands#Submit in parallel|Submit in parallel]]
-	- [[#Useful Commands#Submit in parallel and dont re-transfer files the server already has|Submit in parallel and dont re-transfer files the server already has]]
-	- [[#Useful Commands#Fast Reconcile of local files that have been edited, added, deleted and with special characters in their name|Fast Reconcile of local files that have been edited, added, deleted and with special characters in their name]]
-	- [[#Useful Commands#Show me files that were ignored:|Show me files that were ignored:]]
-	- [[#Useful Commands#Show me files that were ignored but need to be added|Show me files that were ignored but need to be added]]
-	- [[#Useful Commands#Why something was ignored:|Why something was ignored:]]
-	- [[#Useful Commands#See which files are out of sync from worktree|See which files are out of sync from worktree]]
-	- [[#Useful Commands#Force resync only deleted files|Force resync only deleted files]]
-	- [[#Useful Commands#Find size of a depo|Find size of a depo]]
+- [[#Useful Commands]]
+	- [[#Check if a file is ignored]]
+	- [[#Remove files in CL, keeping workspace]]
+	- [[#Submit with progress indicator]]
+	- [[#Submit in parallel]]
+	- [[#Submit in parallel and dont re-transfer files the server already has]]
+	- [[#Fast Reconcile of local files that have been edited, added, deleted and with special characters in their name]]
+	- [[#Show me files that were ignored:]]
+	- [[#Show me files that were ignored but need to be added]]
+	- [[#Why something was ignored:]]
+	- [[#See which files are out of sync from worktree]]
+	- [[#Force resync only deleted files]]
+	- [[#Find size of a depo]]
 
 ---
 
